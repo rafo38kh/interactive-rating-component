@@ -1,6 +1,6 @@
-# Frontend Mentor - {NAME} Solution
+# Frontend Mentor - Interactive Rating Component Solution
 
-This is a solution to the [{NAME} Challenge on Frontend Mentor]({LINK})
+This is a solution to the [Interactive Rating Component Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
 
 ## Table of contents
 
@@ -16,24 +16,29 @@ This is a solution to the [{NAME} Challenge on Frontend Mentor]({LINK})
 
 ### The challenge
 
-- {CHALLANGE}
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Select and submit a number rating
+- See the "Thank you" card state after submitting a rating
 
 ### Screenshot
 
-![screenshot](./images/screenshot.png)
+![screenshot](./src/images/screenshot.png)
 
 ### Links
 
 - Solution URL: []()
-- Live Site URL: []()
+- Live Site URL: [https://rafo38kh.github.io/interactive-rating-component/](https://rafo38kh.github.io/interactive-rating-component/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- SCSS custom properties
 - CSS Flexbox
+- CSS Grid
+- Tailwind Css
+- React
 - Mobile-first workflow
 
 ## Author

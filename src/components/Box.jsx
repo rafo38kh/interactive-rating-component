@@ -92,6 +92,7 @@ class Box extends Component {
        rounded-xl
        space-y-4
        flex flex-col items-center
+       shadow-customShadow
        md:rounded-3xl md:space-y-6"
       >
         <img src={Thanks} alt="thanke you" />
