@@ -27,7 +27,7 @@ This is a solution to the [Interactive Rating Component Challenge on Frontend Me
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-built-with-react-and-tailwindcss-B1WWVU0fc](https://www.frontendmentor.io/solutions/interactive-rating-component-built-with-react-and-tailwindcss-B1WWVU0fc)
 - Live Site URL: [https://rafo38kh.github.io/interactive-rating-component/](https://rafo38kh.github.io/interactive-rating-component/)
 
 ## My process

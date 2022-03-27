@@ -46,7 +46,7 @@ class Box extends Component {
     ));
 
     return this.state.isSubmitted ? (
-      <div
+      <main
         className="bg-gradient-to-tl
        from-secondary/60
        to-primaryDark
@@ -80,9 +80,9 @@ class Box extends Component {
         <span className="w-full inline-block !m-0 text-center text-red-500 text-xs">
           {!this.state.num && this.state.isClicked && "Please select a number"}
         </span>
-      </div>
+      </main>
     ) : (
-      <div
+      <main
         className="bg-gradient-to-tl
        from-secondary/60
        to-primaryDark
@@ -104,7 +104,7 @@ class Box extends Component {
           We appreciate you taking the time to give a rating. If you ever need
           more support, don’t hesitate to get in touch!
         </p>
-      </div>
+      </main>
     );
   }
 }
